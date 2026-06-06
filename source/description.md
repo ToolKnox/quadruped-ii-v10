@@ -1,19 +1,3 @@
-# Quadruped II - v1.0
-
-A place for the v1.0 files of
-
-**Tags:** dog, drone, diy, arduino, robotics, rasberry, code, quadruped, bostondynamics, robotdog
-
-## Maker Portal readiness
-
-This repository was created/connected by the Maker Portal software steward so the project has a GitHub source-of-truth record.
-
-- `bom.csv` is exported from the Maker Portal BOM table when BOM rows exist.
-- `docs/` contains build/instruction material from the local project folder when available.
-- release assets contain a baseline source/archive snapshot for traceability.
-
-## Project description
-
 ***This is the old version of the quadruped.***  
 ***Here's the original project description:***  
   

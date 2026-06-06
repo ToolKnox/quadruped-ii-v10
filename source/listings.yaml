@@ -1,0 +1,10 @@
+listings:
+- platform: printables
+  url: https://www.printables.com/model/1492731-quadruped-ii-v10
+  external_id: '1492731'
+- platform: thingiverse
+  url: https://www.thingiverse.com/thing:7215485
+  external_id: '7215485'
+- platform: makerworld
+  url: https://makerworld.com/en/models/2052393-quadruped-ii-v1-15#profileId-2602144
+  external_id: '2052393'
