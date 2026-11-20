@@ -113,3 +113,8 @@ Most of the wiring requires solder and a soldering iron.
 #### Power
 
 ![](https://media.printables.com/media/prints/1492731/rich_content/7e41e53d-d3f6-4de6-9559-a0b271bff17f/uploaded-image-wiring-diagram-power-1.png#%7B%22uuid%22%3A%2278c09c74-57af-4c1b-99a7-802ef9d23e11%22%2C%22w%22%3A1050%2C%22h%22%3A587%7D)
+
+## Bill of Material
+
+[Bill of Material (PDF)](docs/Quadruped%20II%20Bill%20of%20Material.pdf): every part to buy, with shop links.
+
